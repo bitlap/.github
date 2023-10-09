@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to bitlap 👋</h1>
 
 
-# <img src=https://github.com/bitlap/bitlap/blob/dev/bitlap.png width=48px align=center> bitlap  [![](https://shields.io/github/stars/bitlap?style=social)](https://github.com/bitlap/)
+# <img src=https://github.com/bitlap/.github/blob/master/profile/bitlap.png width=48px align=center> bitlap  [![](https://shields.io/github/stars/bitlap?style=social)](https://github.com/bitlap/)
 
 | Join Bitlap Community   | Where to Find us                                                                                                                                                                                                                                                                                |
 |-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
