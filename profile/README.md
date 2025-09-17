@@ -5,7 +5,7 @@
 
 | Join Bitlap Community   | Where to Find us                                                                                                                                                                                                                                                                                |
 |-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Asking Questions        | [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord)](https://discord.gg/KTPxPjTk7v) [![Discussions](https://img.shields.io/badge/GitHub_Discussion-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/bitlap/discussions) |
+| Asking Questions        | [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord)](https://discord.gg/KTPxPjTk7v)|
 | Chat, Asking in Chinese | [![QQ Group](https://img.shields.io/badge/QQ_Group-000000?style=for-the-badge&logo=tencentqq)](https://github.com/bitlap/.github/tree/master/profile/QQGroup.png)                                                                                                                               |
 <!--
 
